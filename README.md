@@ -1,4 +1,6 @@
 # Routing Practice App
+React App that practices passing information through the route and displaying it on the page using components.
+
 1. localhost:3000/home: Route displays the home page, with a generic "Welcome" heading
 
 2. localhost:3000/4: Integer route displays the number "4", or any other number that was sent through
