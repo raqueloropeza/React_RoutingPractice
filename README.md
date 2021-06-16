@@ -1,3 +1,12 @@
+# Routing Practice App
+1. localhost:3000/home: Route displays the home page, with a generic "Welcome" heading
+
+2. localhost:3000/4: Integer route displays the number "4", or any other number that was sent through
+
+3. localhost:3000/hello: Word route displays the word "hello" or any other word that was sent through
+
+4. localhost:3000/hello/blue/red: Rainbow route displays the word "hello" in blue text with a red background or any other valid word and colors.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
